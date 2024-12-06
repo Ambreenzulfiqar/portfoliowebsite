@@ -1,4 +1,4 @@
-import ".. /style/footer.css";
+
 export default function footer(){
     return( <div
          className="footer text-purple-600" >

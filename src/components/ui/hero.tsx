@@ -1,5 +1,5 @@
 
-import "../style/hero.css"
+
 export default function hero(){
     return(
         <div>

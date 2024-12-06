@@ -1,5 +1,9 @@
-import Image from "next/image"
+
 import "../style/hero.css"
 export default function hero(){
-    return
+    return(
+        <div>
+            <h1 className="text-center">its my portfolio website</h1>
+        </div>
+    )
 }

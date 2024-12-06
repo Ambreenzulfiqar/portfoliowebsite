@@ -7,7 +7,7 @@ export default function About() {
       <div className="text-center max-w-3xl px-4">
         <h1 className="text-4xl font-bold mb-4">About Me</h1>
         <p className="text-lg mb-6">
-          I'm Ambreen, a front-end developer passionate about creating beautiful, functional web applications. With a strong background in HTML, CSS, JavaScript, and modern frameworks like React and Next.js, I focus on crafting seamless user experiences.
+          I&apos;m Ambreen, a front-end developer passionate about creating beautiful, functional web applications. With a strong background in HTML, CSS, JavaScript, and modern frameworks like React and Next.js, I focus on crafting seamless user experiences.
         </p>
         <p className="text-lg mb-6">
           I believe in writing clean, efficient code, and constantly learning new technologies to stay on top of the latest trends in web development.

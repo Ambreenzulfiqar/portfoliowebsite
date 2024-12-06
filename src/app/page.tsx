@@ -1,4 +1,5 @@
 
+import Hero from "@/components/ui/hero";
 import Image from "next/image";
 
 
@@ -18,7 +19,7 @@ Welcome to my portfolio! Here, you can explore my projects, learn about my exper
         
 
     </div>
-      
+      <Hero/>
     </div>
   );
 }
